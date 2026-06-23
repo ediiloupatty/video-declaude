@@ -1,0 +1,2 @@
+File contoh untuk demo declaude.
+Commit ini sengaja dibuat dengan atribusi Claude supaya bisa didemokan dihapus.
