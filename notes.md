@@ -13,3 +13,9 @@ Catatan untuk video demo declaude.
 - Intro (10s): kenapa `@claude` bisa masuk ke repo.
 - Demo (30s): jalankan `declaude OWNER/REPO`, tunjukkan graph sebelum/sesudah.
 - Outro (10s): link install dan docs.
+
+## Checklist rekaman
+
+- [ ] Tampilkan Insights → Contributors (ada @claude) sebelum demo.
+- [ ] Rekam terminal saat menjalankan declaude.
+- [ ] Tampilkan graph setelahnya (Incognito) untuk membuktikan @claude hilang.
